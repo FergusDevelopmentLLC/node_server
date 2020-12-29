@@ -10,4 +10,3 @@ const server = app.listen(8686, () => {
 })
 
 //visit http://127.0.0.1:8686/index.html
-//index is in /8values_fe/public/ folder.
